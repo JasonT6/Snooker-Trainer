@@ -27,3 +27,4 @@ snookerv3.py uses QR code detection.
 2. Print the QR code onto a piece of paper and make sure that the size is around 4cm by 4cm.
 3. Tape the picture of the QR code onto the tip of the cue such that the QR code is flat and facing the camera.
 
+
